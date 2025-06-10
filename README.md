@@ -4,12 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
-<p align="center">
-  <a href="https://github.com/homdev">
-    <img src="https://komarev.com/ghpvc/?username=homdev&label=Profile%20views&color=0e75b6&style=flat" alt="homdev" />
-  </a>
-</p>
-
 ---
 
 ### 💻 About Me
