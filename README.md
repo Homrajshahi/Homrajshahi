@@ -29,10 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
-
 ---
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things!;Building%20cool%20stuff!;Coding%20my%20dreams!&center=true&width=380&height=45">
 </p>
