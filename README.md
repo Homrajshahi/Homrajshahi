@@ -32,18 +32,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=homdev&show_icons=true&theme=tokyonight" alt="Hom's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=homdev&theme=tokyonight" alt="Hom's GitHub Streak" />
-</p>
-
----
-
-### 🐍 Snake Animation
-<p align="center">
-  <img src="https://github.com/homdev/homdev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
