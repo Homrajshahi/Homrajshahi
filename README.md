@@ -13,11 +13,13 @@
 ---
 
 ### 💻 About Me
-- 🌱 I’m currently learning **Web Development and Data Science**  
-- 💬 Ask me about **Linux, Networking, and Ethical Hacking**  
-- 📫 How to reach me: **[Email me](mailto:you@example.com)**  
+I enjoy exploring new tech 🔍 and solving problems one step at a time 🧩.  
+Big believer in learning by doing 💡 and staying consistent 🔄.  
+Here to grow 🌱, experiment 🛠️, and share what I create 💻.
+
+- 📫 How to reach me: **[Email me](mailto:shahihemraj758@gmail.com)**  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love to make memes about code!**  
+ 
 
 ---
 
